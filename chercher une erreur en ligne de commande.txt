@@ -1,0 +1,3 @@
+cat test |grep 404
+
+gunzip -> logiciel de compression linux

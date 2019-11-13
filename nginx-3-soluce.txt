@@ -1,0 +1,1 @@
+cat nginx-3.log |cut -d ' ' -f9 | sort -n | uniq -c | sort -nr

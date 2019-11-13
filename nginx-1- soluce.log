@@ -1,0 +1,1 @@
+cat nginx.log | grep /fr | uniq | grep -v 200

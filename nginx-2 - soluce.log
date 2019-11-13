@@ -1,0 +1,1 @@
+cat nginx-2.log | grep /fr |cut -d ' ' -f9 | grep -v 200
